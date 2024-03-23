@@ -1,6 +1,6 @@
 {
 	"name": "wtcher-js-tea",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"description": "Libs Watcher",
 	"main": "watcher.js",
 	"type": "module",
