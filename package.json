@@ -78,8 +78,11 @@
 	"dependencies": {
 		"gulp-cheerio": "^1.0.0",
 		"isotope-layout": "^3.0.6",
+		"simplebar": "latest",
+		"dynamic-adapt-js-tea": "^0.0.2",
+		"mixin-module-tea": "^0.0.4",
 		"my-module-dark-theme": "^0.1.0",
 		"personal-build-frontender": "^0.4.0",
-		"simplebar": "latest"
+		"wtcher-js-tea": "^0.0.2"
 	}
 }
