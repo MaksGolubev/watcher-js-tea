@@ -1,5 +1,5 @@
 
-import { isMobile, uniqArray, FLS } from "../files/functions.js";
+import { isMobile, uniqArray, FLS } from "./src/js/files/functions.js";
 import { flsModules } from "../files/modules.js";
 
 // Спостерігач об'єктів [всевидюче око]
